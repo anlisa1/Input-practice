@@ -1,0 +1,46 @@
+::placeholder{
+color:#eeff8c;
+}
+
+button{
+background-color:#a1ffca;
+}
+
+
+/* **Do not touch the code below** */
+/* Sorry but I dont like the color design*/
+
+body {
+    text-align: center;
+    justify-content: space-between;
+    background-color:#feffe6;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    position: center;
+    border: 3px ridge white;
+}
+
+input {
+    margin: 15px;
+    padding: 5px;
+    width: 200px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+    border:2px ridge yellow;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+	color:#a1ffca;
+    background-color:white;
+    Border:4px #a1ffca outset;
+    padding:7px;
+}
